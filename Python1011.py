@@ -26,3 +26,8 @@ from fractions import *
 _d3 = Fraction(6,9)
 # Complex
 _e3 = complex(2,5)
+
+# Course 4: String
+print("------------Course 4: String------------")
+_strA = 'I am %s%s years old and I have %s wife' %(2, 8, 1)
+print(_strA)
